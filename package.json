@@ -1,0 +1,11 @@
+{
+  "name": "play_dbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kjakub/play_dbot.git",
+  "author": "jakub.kuchar@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "3.3.9"
+  }
+}
