@@ -6,6 +6,6 @@
   "author": "jakub.kuchar@hotmail.com",
   "license": "MIT",
   "dependencies": {
-    "@apollo/client": "3.3.9"
+    "@apollo/client": "3.7.0"
   }
 }
